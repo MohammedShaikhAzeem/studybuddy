@@ -25,4 +25,4 @@ replay_pid*
 /.metadata/
 
 
-src/main/resources/application.properties
+backend/src/main/resources/application.properties
